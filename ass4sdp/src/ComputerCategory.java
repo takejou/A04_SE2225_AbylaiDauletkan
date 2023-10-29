@@ -1,0 +1,3 @@
+enum ComputerCategory {
+    VIP, ORDINARY
+}
